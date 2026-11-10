@@ -1,0 +1,6 @@
+{
+  "appId": "com.pcmaster.mobile",
+  "appName": "PC MASTER",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
